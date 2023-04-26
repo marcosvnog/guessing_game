@@ -28,4 +28,7 @@ fn main() {
             }
         }
     }
+
+    println!("You reached the target number, congratulations!!!");
+    println!("The correct answear is: {}", winner_number);
 }
